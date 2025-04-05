@@ -1,6 +1,6 @@
 # NC-EVENT
 Please type the following **command** in your *Powershell or Command Prompt* to enter the event server:
-ssh event@52.167.144.158 -p 22
+ssh event@192.168.0.52 -p 22
 
 To get the password, what do I own that begins with C?
 Figure out the rest :)
